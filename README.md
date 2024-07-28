@@ -38,5 +38,5 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![StarUML](https://img.shields.io/badge/staruml-%23F4F2FF.svg?&style=for-the-badge&logo=staruml&logoColor=black)
 
-### Blog
+### Blog (Contact)
 [![Naver Blog](https://img.shields.io/badge/naver%20blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/minseonn-)
