@@ -1,3 +1,5 @@
+<div align="center">
+  
 ## HI there, minseond GITHUB👋
 
 ## 🔨 Stacks I've Used 🔨
