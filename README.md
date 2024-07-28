@@ -1,4 +1,4 @@
-## minseond GITHUB👋
+## HI there, minseond GITHUB👋
 
 ## 🔨 Stacks I've Used 🔨
 
