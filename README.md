@@ -42,3 +42,13 @@
 
 ### Blog
 [![Naver Blog](https://img.shields.io/badge/naver%20blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/minseonn-)
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minseond&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/minseond"
+    width="600"
+    height="120"
+  />
+</a>
+  
