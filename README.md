@@ -42,11 +42,11 @@
 
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minseond&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/minseond"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minseond&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/minseond"
+  width="600"
+  height="300"
+/>
 </a>
   
